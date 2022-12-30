@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">DB-Alumnos</string>
+
+    <string name="buttonInsertar">Insertar</string>
+    <string name="buttonBorrar">Borrar</string>
+    <string name="buttonConsultar">Consultar</string>
+    <string name="buttonActualizar">Actualizar</string>
+
+</resources>
